@@ -34,7 +34,7 @@ public class LoginWidget extends VLayout
 	public LoginWidget()
 	{
 		this.setWidth("300px");
-		this.setHeight("100px");
+		//this.setHeight("100px");
 		//this.setLayoutAlign(VerticalAlignment.CENTER);
 		
 		// logoutForm
